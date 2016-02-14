@@ -1,0 +1,4 @@
+*.csv
+*.pyc
+sample_dask.py
+.ipynb_checkpoints/
