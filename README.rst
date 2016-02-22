@@ -1,4 +1,4 @@
-.. image:: https://github.com/emitc2h/kaggle-rain-II/blob/master/logo.png?raw=true
+.. image:: https://raw.githubusercontent.com/emitc2h/kaggle-rain-II/e3abc5b2bab60708819ffc7c917bf6563ed937f4/logo.png
 
 | **project:** Kaggle competition : How much does it rain? II - https://www.kaggle.com/c/how-much-did-it-rain-ii (finished 12.07.2015)
 | **author:** Michel Trottier-McDonald <michel.trottiermcdonald@gmail.com>
